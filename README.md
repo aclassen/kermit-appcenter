@@ -1,6 +1,6 @@
 # Kermit Crash Logging - AppCenter
 
-With the `kermit-appcenter` module, you can setup kermit to automatically send handled exceptions and crash reports to AppCenter.
+With the `kermit-appcenter` module, you can setup [kermit](https://github.com/touchlab/Kermit) to automatically send handled exceptions and crash reports to AppCenter.
 
 Setup the `AppCenterLogWriter` with your `Logger`. The constructor for both platforms is the same, so in
 shared code, or in platform-specific Kotlin, run the following:
