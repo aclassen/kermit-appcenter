@@ -1,0 +1,3 @@
+language = Objective-C
+headers = MSACCrashes.h MSACExceptionModel.h MSACStackFrame.h
+package = org.burnoutcrew.kermit.appcenter
